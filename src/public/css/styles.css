@@ -1,0 +1,29 @@
+.contain-everything {
+  color: rgb(60, 135, 247);
+  margin: 1%;
+}
+
+.button-style {
+  width: 20%;
+  height: 35px;
+  margin: 1% auto;
+}
+
+.contain-everything2 {
+  color: rgb(60, 135, 247);
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+}
+
+.button-style2 {
+  width: 10%;
+  height: 20px;
+  margin: 5%;
+}
+
+p {
+  font-size: x-large;
+  font-weight: bold;
+  margin-left: 15%;
+}
