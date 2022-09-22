@@ -63,7 +63,7 @@ router.get("/logout", (req, res) => {
     if (error)
       return res.status(500).send({
         status: "error",
-        message: "Could not logout, please try again",
+        message: "Could not logout, please try again!",
       });
   });
   res.redirect("/login");
